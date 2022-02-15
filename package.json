@@ -1,0 +1,20 @@
+{
+  "name": "myfirstgit-repo",
+  "version": "1.0.0",
+  "description": "This is my first git repository app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marana47/MyfirstGit-Repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marana47/MyfirstGit-Repo/issues"
+  },
+  "homepage": "https://github.com/Marana47/MyfirstGit-Repo#readme"
+}
